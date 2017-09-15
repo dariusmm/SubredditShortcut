@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "SubredditShortcut",
   "version": "1.0",
-  "author": "dariusm",
+  "author": "dariusmm",
 
   "description": "Allows the user to navigate to a subreddit by typing 'r [subbreddit]' into the address bar.",
   
