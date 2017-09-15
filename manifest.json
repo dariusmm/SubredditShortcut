@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "SubredditShortcut",
+  "version": "1.0",
+  "author": "dariusm",
+
+  "description": "Allows the user to navigate to a subreddit by typing 'r [subbreddit]' into the address bar.",
+  
+  "icons": {
+    "48": "icons/r-48.png",
+	"96": "icons/r-96.png"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+  
+  "omnibox": {
+    "keyword" : "r"
+  }
+
+}
